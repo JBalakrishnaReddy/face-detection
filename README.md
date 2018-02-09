@@ -18,7 +18,7 @@ Available methods are
 1. dlib
 2. opencv
 
-Eg: python3 main_v3.py --algorithm opencv --image_path /home/$user_name/Pictures/test.png
+Eg: python3 src/main.py --algorithm opencv --image_path $(pwd)/Pictures/test.png
 
 
 Solution to actual problem: Algorithm
